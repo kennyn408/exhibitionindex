@@ -45,9 +45,9 @@ nav ul li a:hover{
   color: black;}
 
 .gallery{ 
-    -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
     -webkit-column-gap: 10px;
     -moz-column-gap: 10px;
     column-gap: 10px;
@@ -55,7 +55,7 @@ nav ul li a:hover{
     overflow: hidden;}
 
 .gallery img { 
-    width: 90%; 
+    width: 60%; 
     height: auto;
     transition: 500ms;
     margin-bottom: 10px;
